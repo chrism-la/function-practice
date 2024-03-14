@@ -30,3 +30,5 @@ def rev_string(string):
 #[start:stop:step] notation 
 
 #4.
+def num_within(number, start, end):
+  return start <= number <= end
