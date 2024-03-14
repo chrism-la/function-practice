@@ -25,3 +25,8 @@ result = mult_list(numbers)
 print(result)
 
 #3.
+def rev_string(string):
+  return string[::-1]
+#[start:stop:step] notation 
+
+#4.
