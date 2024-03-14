@@ -32,3 +32,6 @@ def rev_string(string):
 #4.
 def num_within(number, start, end):
   return start <= number <= end
+
+result = num_within(5, 1, 10)
+print(result)
